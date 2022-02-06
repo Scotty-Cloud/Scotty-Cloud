@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23648e6e&lines=Scotty-Cloud.exe+has+been+corrupt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23648e6e&lines=Scotty-Cloud.exe+has+been+corrupted)](https://git.io/typing-svg)
 
 ☁️ Hey, Im Scotty
 
