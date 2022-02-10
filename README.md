@@ -10,6 +10,7 @@
 🌱 currently refining my skills in java & algorithims
 
 <hr>
+<div align="left">
 <h3>Languages</h3>
 <a href="#"><img src=https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
@@ -20,6 +21,7 @@
 
 
 <hr>
+<div align="left">
 <h3>Technologies</h3>
 <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&for-the-badge&logo=react-router&logoColor=white" />  </a>
