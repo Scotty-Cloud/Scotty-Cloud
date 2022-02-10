@@ -9,10 +9,6 @@
 
 🌱 currently refining my skills in java & algorithims
 
-<div align="left">
-
-![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Proficiencies 
 ---------------
@@ -25,11 +21,10 @@ Proficiencies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+<div align="left">
 
-
-
-
-
+![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
