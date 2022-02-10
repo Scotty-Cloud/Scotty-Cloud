@@ -9,7 +9,7 @@
 
 🌱 currently refining my skills in java & algorithims
 
-<br>
+<hr>
 <h3>Languages</h3>
 <a href="#"><img src=https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
@@ -17,7 +17,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
 
-<br>
+<hr>
 <h3>Technologies</h3>
 <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&for-the-badge&logo=react-router&logoColor=white" />  </a>
@@ -31,6 +31,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
+
 
 
 <br>
