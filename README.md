@@ -34,6 +34,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
 
+<br>
 <div align="left">
 
 ![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)
