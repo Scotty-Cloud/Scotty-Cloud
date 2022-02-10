@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23648e6e&lines=Scotty-Cloud.exe+has+been+corrupted)](https://git.io/typing-svg)
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=Scotty-Cloud&left_color=black&right_color=grey)
-
 <div align="center">
 
 ☁️ Hey, Im Scotty 
