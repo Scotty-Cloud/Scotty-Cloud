@@ -13,13 +13,12 @@
 <br>
 <div align="left">
 
-![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats) -->
+![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="right">
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=Scotty-Cloud&left_color=black&right_color=grey)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=Scotty-Cloud&left_color=&right_color=grey)
 </div>
 
 <!-- <div align="center">
