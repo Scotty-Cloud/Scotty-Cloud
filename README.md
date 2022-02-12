@@ -3,11 +3,9 @@
 
 <div align="center">
 
-☁️ Hey, Im Scotty 
-
-🦭 Im a software engineer who loves to make people smile and laugh
-
-🌱 currently refining my skills in java & algorithims
+  ☁️ Hey, Im Scotty <br>
+  🦭 Im a software engineer who loves to make people smile and laugh<br>
+  🌱 currently refining my skills in java & algorithims<br>
 </div>
 
 <br>
