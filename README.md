@@ -9,7 +9,7 @@
 
 🌱 currently refining my skills in java & algorithims
 
-<hr>
+<!-- <hr>
 <h3>Languages</h3>
 <a href="#"><img src=https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
@@ -30,7 +30,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
 <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
-<a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
+<a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a> -->
 
 
 
@@ -38,7 +38,7 @@
 <div align="left">
 
 ![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="right">
 
