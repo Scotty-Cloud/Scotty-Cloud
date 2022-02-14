@@ -16,8 +16,10 @@
 
 <div align="right">
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=Scotty-Cloud&left_color=&right_color=grey)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=Scotty-Cloud&left_color=silver&right_color=black)
 </div>
+
+
 
 <!-- <div align="center">
 <hr>
