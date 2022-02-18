@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%23648e6e&lines=Scotty-Cloud.exe+has+been+corrupted)](https://git.io/typing-svg)
 
-<div align="left">
+<div align="center">
 
   ☁️ Hey, Im Scotty <br>
   🦭 I'm a software engineer who loves to make people smile and laugh<br>
@@ -14,10 +14,11 @@
 ![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty-cloud&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scotty-Cloud&theme=tokyonight&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<div align=center>
 
 Profeciencies
 =
-<div align=center>
+
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
