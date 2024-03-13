@@ -13,7 +13,7 @@
 
 <h3>Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,aws,vscode,vercel,&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,aws,vscode,vercel,git,github&perline=5)](https://skillicons.dev)  
 
 <h3>Connect With Me</h3>
  <a href="https://www.linkedin.com/in/scottadamr/">
