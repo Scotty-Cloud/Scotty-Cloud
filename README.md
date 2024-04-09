@@ -29,8 +29,8 @@
  </a>
 </div>
 
-<div align=right>
+<!-- <div align=right>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%2384AAAD&lines=Stay+Cozy)](https://git.io/typing-svg)
   
-</div>
+</div> -->
