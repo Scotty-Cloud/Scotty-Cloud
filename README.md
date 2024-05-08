@@ -28,8 +28,4 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,aws,vscode,vercel,git,github&perline=5)](https://skillicons.dev)   -->
 
-<div align=right>
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%2384AAAD&lines=Stay+Cozy)](https://git.io/typing-svg)
-  
-</div>
