@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div> -->
 
-<h1> Heya, Im Scott!</h1>
+<h1> Heya, Im Scotty!</h1>
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" /> -->
 
