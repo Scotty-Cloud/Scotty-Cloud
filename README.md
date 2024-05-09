@@ -27,12 +27,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,aws,vscode,vercel,git,github)](https://skillicons.dev) 
 
-## Connect with me 
- <!-- <img src='' width="" height=> </h2> -->
-<a href="https://www.linkedin.com/in/scottadamr/">
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/scottadamr/) 
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,aws,vscode,vercel,git,github&perline=5)](https://skillicons.dev)   -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%2384AAAD&lines=Stay+Cozy)](https://git.io/typing-svg)
