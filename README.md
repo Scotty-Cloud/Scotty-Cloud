@@ -16,9 +16,9 @@
 
 ☁️ I code and make people laugh
 
-🧠 Learning Typescript & Relearning Java
-
 🌱 Refining my skills in JavaScript & DSA
+
+🧠 Learning Typescript & Relearning Java
 
 🦙 Looking to contribute to open source projects 
 
