@@ -14,13 +14,21 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
-☁️ I code and make people laugh
 
-🌱 Refining my skills in JavaScript & DSA
+``` javascript
+const scotty = {
+ status: ['coding', 'sleeping', 'eating','making people laugh']
+  {
+		aboutMe: {
+		 ['Refining my skills in JavaScript & DSA',
+          'Learning Typescript & Relearning Java',
+          'Looking to contribute to open source projects']
+      	}
+}
+}
+```
 
-🧠 Learning Typescript & Relearning Java
-
-🦙 Looking to contribute to open source projects 
+<!--   -->
 
 ## Tech Stack <!-- <img src = "" width =  height = > -->
 
