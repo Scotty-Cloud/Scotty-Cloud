@@ -17,13 +17,14 @@
 
 ``` javascript
 const scotty = {
- status: ['coding', 'sleeping', 'eating','making people laugh']
-  {
-aboutMe: {['Refining my skills in JavaScript & DSA',
-          'Learning Typescript & Relearning Java',
-          'Looking to contribute to open source projects']
-      	}
-    }
+  status: ['coding', 'sleeping', 'eating', 'making people laugh'],
+  aboutMe: {
+    bio: [
+      'Refining my skills in JavaScript & DSA',
+      'Learning Typescript & Relearning Java',
+      'Looking to contribute to open source projects'
+    ]
+  }
 }
 ```
 
