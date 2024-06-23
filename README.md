@@ -15,14 +15,10 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 
-``` typescript
-interface Scotty {
-  status: string[];
+``` python
+scotty = {
+  'status': ['coding', 'sleeping', 'eating', 'making people laugh']
 }
-
-const scotty: Scotty = {
-  status: ['coding', 'sleeping', 'eating', 'making people laugh']
-};
 ```
 
 ⚡️ Refining my skills in JavaScript & DSA
