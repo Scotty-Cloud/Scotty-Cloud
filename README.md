@@ -8,7 +8,7 @@
  <a href="https://linkedin.com/in/scottadamr">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BDA27E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
   <!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-D2B48C?style=for-the-badge&logo=hotjar&logoColor=black" height="25" alt="codepen logo"  /></a> -->
-<a href="https://www.codewars.com/users/Scotty-Cloud"><img src="https://img.shields.io/badge/Codewars-C9AD7F?style=for-the-badge&logo=codewars&logoColor=black" height="25" alt="codepen logo"  /></a>
+<a href="https://www.codewars.com/users/Scotty-Cloud"><img src="https://img.shields.io/badge/Codewars-88976d?style=for-the-badge&logo=codewars&logoColor=black" height="25" alt="codepen logo"  /></a>
 </div>
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" /> -->
 
