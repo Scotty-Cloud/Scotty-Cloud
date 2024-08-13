@@ -17,7 +17,7 @@
 
 ``` python
 scotty = {
-  'status': ['coding', 'sleeping', 'eating', 'making people laugh']
+  'status': ['coding', 'sleeping', 'eating', 'designing', 'making people laugh']
 }
 ```
 
