@@ -32,6 +32,10 @@ scotty = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,vscode,vercel,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,vscode,vercel,git,github)](https://skillicons.dev)
+
+
+
+<div align="left" >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%2384AAAD&lines=Stay+Cozy)](https://git.io/typing-svg)
