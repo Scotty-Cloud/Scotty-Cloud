@@ -12,11 +12,10 @@
 </div>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
-
-``` js
+```js
 scotty = {
-  'status': ['coding', 'sleeping', 'eating', 'designing', 'making people laugh']
-}
+  status: ["coding", "sleeping", "eating", "designing", "making people laugh"],
+};
 ```
 
 ⚡️ Refining my skills in JavaScript & DSA
