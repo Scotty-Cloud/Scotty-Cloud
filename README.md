@@ -32,7 +32,7 @@ console.log(scott);
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,mysql,nodejs,mongodb,express,py,django,css,html,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mysql,py,nodejs,mongodb,express,django,css,html,git,github)](https://skillicons.dev)
 
 <div align="left" >
 
