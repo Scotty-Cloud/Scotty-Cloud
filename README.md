@@ -13,15 +13,12 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 ```js
-  function createScott() {
-
+function createScott() {
   return {
-
-    'status:' ["coding", "sleeping", "eating", "designing", "making people laugh"],
-
+    status: ["coding", "sleeping", "eating", "designing", "making people laugh"],
   };
-
 }
+
 const scott = createScott();
 
 console.log(scott);
@@ -35,7 +32,7 @@ console.log(scott);
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,py,django,postgresql,css,html,vscode,vercel,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mysql,nodejs,mongodb,express,py,django,css,html,git,github)](https://skillicons.dev)
 
 <div align="left" >
 
