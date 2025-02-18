@@ -1,6 +1,7 @@
 <div align="center"><h1> Hello there, I'm Scott!</h1></div>
 
 <div align="center">
+
  <a href="https://linkedin.com/in/scottadamr">
   <img src="https://img.shields.io/badge/LinkedIn-7391c8?styles=for-the-badge&logo=linkedin&logoColor=Black" height="25" alt="linkedin logo" /></a>
 <a href="https://www.codewars.com/users/Scotty-Cloud">
@@ -32,14 +33,18 @@ console.log(scott);
 
 <div align="left" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=%2384AAAD&lines=Stay+Cozy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Supermercado+One&color=7691C2&lines=Stay+Cozy)](https://git.io/typing-svg)
 
 <!-- add later
 
-  <!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-D2B48C?style=for-the-badge&logo=hotjar&logoColor=black" height="25" alt="codepen logo" 88976d /></a> -->
+<a href=""><img src="https://img.shields.io/badge/Portfolio-7391c8?styles=for-the-badge&logo=hotjar&logoColor=black" height="25" alt="codepen logo"  /></a>
 
-  <!-- <div align="center">
+<!-- <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div> 
+</div>
+
+#88976d
+#D2B48C
+#2384AAAD
 
 -->
