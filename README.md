@@ -1,11 +1,14 @@
 <div align="center"><h1> Hello there, I'm Scott!</h1></div>
 
 <div align="center">
-<!-- 
+
  <a href="https://linkedin.com/in/scottadamr">
-  <img src="https://img.shields.io/badge/LinkedIn-7391c8?styles=for-the-badge&logo=linkedin&logoColor=Black" height="25" alt="linkedin logo" /></a> -->
-<a href="https://www.codewars.com/users/Scotty-Cloud">
-<img src="https://img.shields.io/badge/Codewars-7391c8?styles=for-the-badge&logo=codewars&logoColor=black" height="25" alt="codepen logo"  /></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-7391c8?logo=linkedin-white&logoColor=000" height="25" alt="linkedin logo" />
+  </a> 
+  <a href="https://www.codewars.com/users/Scotty-Cloud">
+    <img src="https://img.shields.io/badge/Codewars-7391c8?styles=for-the-badge&logo=codewars&logoColor=white" height="25" alt="codepen logo"  />
+  </a>
+
 </div>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
