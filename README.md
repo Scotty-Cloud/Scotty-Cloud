@@ -3,8 +3,7 @@
 <div align="center">
 
  <a href="https://linkedin.com/in/scottadamr">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-7391c8?logo=linkedin-white&logoColor=000" height="25" alt="linkedin logo" />
-  </a> 
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-7391c8?logo=linkedin-white&logoColor=000" height="25" alt="linkedin logo" /></a> 
   <a href="https://www.codewars.com/users/Scotty-Cloud">
     <img src="https://img.shields.io/badge/Codewars-7391c8?styles=for-the-badge&logo=codewars&logoColor=white" height="25" alt="codepen logo"  />
   </a>
